@@ -8,10 +8,10 @@ The project focuses on developing a vehicle tracking system using deep learning 
 
 **Please click the image below to enlarge.**
 
-<img src="https://github.com/xdhruv27/CineCritique/blob/main/homepage.png" height="768" width="1024" hspace="40">
+<img src="https://github.com/xdhruv27/Vehicle-Speed-Detection-using-YoloV8/blob/main/output1.jpg" height="768" width="1024" hspace="40">
 <br>
-<img src="https://github.com/xdhruv27/CineCritique/blob/main/searchbar.png" height="768" width="1024" hspace="40">
+<img src="https://github.com/xdhruv27/Vehicle-Speed-Detection-using-YoloV8/blob/main/output2.jpg" height="768" width="1024" hspace="40">
 <br>
-<img src="https://github.com/xdhruv27/CineCritique/blob/main/aboutpage.png" height="768" width="1024" hspace="40">
+<img src="https://github.com/xdhruv27/Vehicle-Speed-Detection-using-YoloV8/blob/main/mail1.jpg" height="768" width="1024" hspace="40">
 <br>
-<img src="https://github.com/xdhruv27/CineCritique/blob/main/contactpage.png" height="768" width="1024" hspace="40">
+<img src="https://github.com/xdhruv27/Vehicle-Speed-Detection-using-YoloV8/blob/main/mail2.jpg" height="768" width="1024" hspace="40">
