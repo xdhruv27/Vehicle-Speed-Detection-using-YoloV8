@@ -14,4 +14,4 @@ The project focuses on developing a vehicle tracking system using deep learning 
 <br>
 <img src="https://github.com/xdhruv27/Vehicle-Speed-Detection-using-YoloV8/blob/main/mail1.jpg" height="196" width="1280" hspace="40">
 <br>
-<img src="https://github.com/xdhruv27/Vehicle-Speed-Detection-using-YoloV8/blob/main/mail2.jpg" height="768" width="1024" hspace="40">
+<img src="https://github.com/xdhruv27/Vehicle-Speed-Detection-using-YoloV8/blob/main/mail2.jpg" height="1024" width="768" hspace="40">
